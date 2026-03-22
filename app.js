@@ -3,8 +3,7 @@ const app = express();
 
 app.get('/', (req, res) => {
   res.send(`
-Version 2 is Live!
-Deployed automatically via GitHub Actions
+HI HELLO WELCOME TO THIS EXTRAORDINARY REPO
 
 `);
 });
