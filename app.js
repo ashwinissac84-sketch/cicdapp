@@ -3,7 +3,7 @@ const app = express();
 
 app.get('/', (req, res) => {
   res.send(`
-HI HELLO WELCOME TO THIS EXTRAORDINARY REPO
+Hello World
 
 `);
 });
